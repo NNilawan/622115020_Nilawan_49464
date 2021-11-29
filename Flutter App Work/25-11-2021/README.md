@@ -1,6 +1,6 @@
 # calculate
 
-A new Flutter project.
+A new Flutter project. Change folder name from "calculate2" to "25-11-2021"
 
 ## Getting Started
 
