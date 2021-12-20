@@ -1,0 +1,19 @@
+[{
+        "title": "What is a Computer?",
+        "subtitle": "A computer is a machine that can be programmed automatically.",
+        "image": "https://cdn.pixabay.com/photo/2020/04/25/09/50/fireplace-5090110_960_720.jpg"
+
+    },
+    {
+        "title": "What is a Flutter?",
+        "subtitle": "Flutter transforms the entire app development process.",
+        "image": "https://cdn.pixabay.com/photo/2017/02/08/17/24/fantasy-2049567_960_720.jpg"
+
+    },
+    {
+        "title": "What is a Dart?",
+        "subtitle": "Dart is a client-optimized language for fast apps on any platform.",
+        "image": "https://cdn.pixabay.com/photo/2018/05/04/07/55/snow-3373432_960_720.jpg"
+
+    }
+]
